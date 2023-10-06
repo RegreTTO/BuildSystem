@@ -1,0 +1,6 @@
+/home/regretto/Programming/Projects/BuildSystem/example_app/build/CMakeFiles/example_app.dir
+/home/regretto/Programming/Projects/BuildSystem/example_app/build/CMakeFiles/Point.dir
+/home/regretto/Programming/Projects/BuildSystem/example_app/build/CMakeFiles/package.dir
+/home/regretto/Programming/Projects/BuildSystem/example_app/build/CMakeFiles/package_source.dir
+/home/regretto/Programming/Projects/BuildSystem/example_app/build/CMakeFiles/edit_cache.dir
+/home/regretto/Programming/Projects/BuildSystem/example_app/build/CMakeFiles/rebuild_cache.dir

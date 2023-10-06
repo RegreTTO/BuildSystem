@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/regretto/Programming/Projects/BuildSystem/example_app/build",
+  "command": "/usr/bin/g++ -I/home/regretto/Programming/Projects/BuildSystem/example_app/src -g -o CMakeFiles/example_app.dir/main.cpp.o -c /home/regretto/Programming/Projects/BuildSystem/example_app/main.cpp",
+  "file": "/home/regretto/Programming/Projects/BuildSystem/example_app/main.cpp",
+  "output": "CMakeFiles/example_app.dir/main.cpp.o"
+},
+{
+  "directory": "/home/regretto/Programming/Projects/BuildSystem/example_app/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Point.dir/src/Point/Point.cpp.o -c /home/regretto/Programming/Projects/BuildSystem/example_app/src/Point/Point.cpp",
+  "file": "/home/regretto/Programming/Projects/BuildSystem/example_app/src/Point/Point.cpp",
+  "output": "CMakeFiles/Point.dir/src/Point/Point.cpp.o"
+}
+]
