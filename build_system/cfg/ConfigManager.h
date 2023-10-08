@@ -3,5 +3,6 @@
 struct ConfigManager {
     static std::string CONFIG_FILE;
     static std::string ROOT_PATH;
-    static void find_root_path();
+    static std::string MAIN_FILENAME;
+    static void set_root_path(const char* path);
 };

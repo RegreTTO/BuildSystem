@@ -1,20 +1,38 @@
 [
 {
   "directory": "/home/regretto/Programming/Projects/BuildSystem/build_system/build",
-  "command": "/usr/bin/g++ -I/home/regretto/Programming/Projects/BuildSystem/build_system -g -o CMakeFiles/build_system.dir/main.cpp.o -c /home/regretto/Programming/Projects/BuildSystem/build_system/main.cpp",
+  "command": "/usr/bin/g++ -I/home/regretto/Programming/Projects/BuildSystem/build_system -g -std=gnu++23 -o CMakeFiles/build_system.dir/main.cpp.o -c /home/regretto/Programming/Projects/BuildSystem/build_system/main.cpp",
   "file": "/home/regretto/Programming/Projects/BuildSystem/build_system/main.cpp",
   "output": "CMakeFiles/build_system.dir/main.cpp.o"
 },
 {
   "directory": "/home/regretto/Programming/Projects/BuildSystem/build_system/build",
-  "command": "/usr/bin/g++ -g -o src/Exception/FlagParseException/CMakeFiles/FlagParseException.dir/FlagParseException.cpp.o -c /home/regretto/Programming/Projects/BuildSystem/build_system/src/Exception/FlagParseException/FlagParseException.cpp",
+  "command": "/usr/bin/g++ -g -std=gnu++23 -o src/Exception/FlagParseException/CMakeFiles/FlagParseException.dir/FlagParseException.cpp.o -c /home/regretto/Programming/Projects/BuildSystem/build_system/src/Exception/FlagParseException/FlagParseException.cpp",
   "file": "/home/regretto/Programming/Projects/BuildSystem/build_system/src/Exception/FlagParseException/FlagParseException.cpp",
   "output": "src/Exception/FlagParseException/CMakeFiles/FlagParseException.dir/FlagParseException.cpp.o"
 },
 {
   "directory": "/home/regretto/Programming/Projects/BuildSystem/build_system/build",
-  "command": "/usr/bin/g++ -g -o cfg/CMakeFiles/cfg.dir/ConfigManager.cpp.o -c /home/regretto/Programming/Projects/BuildSystem/build_system/cfg/ConfigManager.cpp",
+  "command": "/usr/bin/g++ -g -std=gnu++23 -o cfg/CMakeFiles/cfg.dir/ConfigManager.cpp.o -c /home/regretto/Programming/Projects/BuildSystem/build_system/cfg/ConfigManager.cpp",
   "file": "/home/regretto/Programming/Projects/BuildSystem/build_system/cfg/ConfigManager.cpp",
   "output": "cfg/CMakeFiles/cfg.dir/ConfigManager.cpp.o"
+},
+{
+  "directory": "/home/regretto/Programming/Projects/BuildSystem/build_system/build",
+  "command": "/usr/bin/g++ -g -std=gnu++23 -o src/staff/CMakeFiles/staff.dir/flag_parse.cpp.o -c /home/regretto/Programming/Projects/BuildSystem/build_system/src/staff/flag_parse.cpp",
+  "file": "/home/regretto/Programming/Projects/BuildSystem/build_system/src/staff/flag_parse.cpp",
+  "output": "src/staff/CMakeFiles/staff.dir/flag_parse.cpp.o"
+},
+{
+  "directory": "/home/regretto/Programming/Projects/BuildSystem/build_system/build",
+  "command": "/usr/bin/g++ -g -std=gnu++23 -o src/DependencyGraph/CMakeFiles/DependencyGraph.dir/DependencyGraph.cpp.o -c /home/regretto/Programming/Projects/BuildSystem/build_system/src/DependencyGraph/DependencyGraph.cpp",
+  "file": "/home/regretto/Programming/Projects/BuildSystem/build_system/src/DependencyGraph/DependencyGraph.cpp",
+  "output": "src/DependencyGraph/CMakeFiles/DependencyGraph.dir/DependencyGraph.cpp.o"
+},
+{
+  "directory": "/home/regretto/Programming/Projects/BuildSystem/build_system/build",
+  "command": "/usr/bin/g++ -g -std=gnu++23 -o src/PathFilter/CMakeFiles/PathFilter.dir/PathFilter.cpp.o -c /home/regretto/Programming/Projects/BuildSystem/build_system/src/PathFilter/PathFilter.cpp",
+  "file": "/home/regretto/Programming/Projects/BuildSystem/build_system/src/PathFilter/PathFilter.cpp",
+  "output": "src/PathFilter/CMakeFiles/PathFilter.dir/PathFilter.cpp.o"
 }
 ]

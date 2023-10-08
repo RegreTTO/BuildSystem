@@ -46,6 +46,9 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/regretto/Programming/Projects/BuildSystem/build_system/build/src/Exception/cmake_install.cmake")
   include("/home/regretto/Programming/Projects/BuildSystem/build_system/build/cfg/cmake_install.cmake")
+  include("/home/regretto/Programming/Projects/BuildSystem/build_system/build/src/staff/cmake_install.cmake")
+  include("/home/regretto/Programming/Projects/BuildSystem/build_system/build/src/DependencyGraph/cmake_install.cmake")
+  include("/home/regretto/Programming/Projects/BuildSystem/build_system/build/src/PathFilter/cmake_install.cmake")
 
 endif()
 

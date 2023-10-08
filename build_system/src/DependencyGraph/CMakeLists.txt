@@ -1,0 +1,2 @@
+add_library(DependencyGraph DependencyGraph.h DependencyGraph.cpp)
+target_link_libraries(DependencyGraph PRIVATE cfg Exception PathFilter)
