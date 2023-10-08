@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20231007-0808-Experimental"
+	Name="regretto-pc"
+	Generator="ctest-3.27.7"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="13.2.1"
+	OSName="Linux"
+	Hostname="regretto-pc"
+	OSRelease="6.5.5-zen1-1-zen"
+	OSVersion="#1 ZEN SMP PREEMPT_DYNAMIC Sat, 23 Sep 2023 22:54:46 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="104"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="15330"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2045.82"
+	>
+	<Testing>
+		<StartDateTime>Oct 07 17:02 MSK</StartDateTime>
+		<StartTestTime>1696687323</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 07 17:02 MSK</EndDateTime>
+		<EndTestTime>1696687323</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

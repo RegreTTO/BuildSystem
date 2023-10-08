@@ -1,0 +1,1 @@
+add_library(cfg ConfigManager.h ConfigManager.cpp)
