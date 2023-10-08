@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "src/Exception",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-src.Exception-Debug-19b5d150eb025bba5f75.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/Exception",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/Exception/FlagParseException",
+					"jsonFile" : "directory-src.Exception.FlagParseException-Debug-389ec66549ce7eae1854.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/Exception/FlagParseException",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "cfg",
+					"jsonFile" : "directory-cfg-Debug-0f9b6b4a491a190ea225.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "cfg",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "build_system",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Exception::@a57738f8daae07d41269",
+					"jsonFile" : "target-Exception-Debug-89f91cd809ece4519867.json",
+					"name" : "Exception",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "FlagParseException::@0fe79a6ba35230f5f7dc",
+					"jsonFile" : "target-FlagParseException-Debug-68739791b399544367f7.json",
+					"name" : "FlagParseException",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "build_system::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-build_system-Debug-1ff336c3ec80299c26cc.json",
+					"name" : "build_system",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "cfg::@c3c88ff349eb74e96dea",
+					"jsonFile" : "target-cfg-Debug-8b6b8626ad5b5f4e5a89.json",
+					"name" : "cfg",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/regretto/Programming/Projects/BuildSystem/build_system/build",
+		"source" : "/home/regretto/Programming/Projects/BuildSystem/build_system"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
