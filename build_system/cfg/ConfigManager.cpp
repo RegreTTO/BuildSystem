@@ -5,6 +5,7 @@
 std::string ConfigManager::CONFIG_FILE = "build.yml";
 std::string ConfigManager::ROOT_PATH = "";
 std::string ConfigManager::MAIN_FILENAME = "main.cpp";
+int ConfigManager::MAX_DEPTH = 10;
 
 void ConfigManager::set_root_path(const char* path){
     ConfigManager::ROOT_PATH = std::filesystem::canonical(path);    
